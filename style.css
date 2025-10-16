@@ -94,6 +94,8 @@ strong{
     display: block;
 }
 .Dropdown ul li{
-    
+     
+    width: auto;
+    height: auto;
     
 }
