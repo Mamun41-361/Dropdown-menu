@@ -1,7 +1,6 @@
 * *::after * ::before{
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+   
 }
 :root{
   
@@ -28,7 +27,7 @@ body{
    
 }
 .hh{
-    width: 30%;
+    width: 28%;
     height: 100%;
     display: inline;
     margin-left: 20px;
@@ -50,14 +49,14 @@ strong{
 }
 .menu{
     height: 100%;
-    width: 70%;
+    width: 66%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .menu ul{
     display: flex;
-    padding: 10px;
+     padding: 0;
     
 }
 .menu ul li{
@@ -68,7 +67,7 @@ strong{
 }
 .menu ul li a{
     text-decoration: none;
-    margin: 10px;
+    margin: 5px;
     padding: 10px;
     align-items: center;
     text-transform: capitalize;
