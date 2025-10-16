@@ -23,13 +23,17 @@ body{
     margin: 0;
     padding: 0;
     background-color: aqua;
+    display: flex;
+    align-items: center;
 }
 .hh{
     width: auto;
-    height: auto;
+    height: 100%;
     display: inline;
+    margin-left: 20px;
 }
 h1{
+
    
 display: inline;
     align-items: center;
