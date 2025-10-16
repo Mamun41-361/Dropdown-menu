@@ -39,3 +39,7 @@ display: inline;
     align-items: center;
     
 }
+strong{
+    color: rgb(4, 0, 243);
+    text-transform: capitalize;
+}
