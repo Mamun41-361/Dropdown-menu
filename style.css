@@ -42,5 +42,13 @@ display: inline;
 }
 strong{
     color: rgb(4, 0, 243);
-    text-transform: capitalize;
+    
+    
+}
+.Menu_bar ul{
+    display: inline-block;
+    
+}
+.Menu_bar ul li{
+    list-style: none;
 }
