@@ -5,7 +5,7 @@
 :root{
   
     --hederbackground:black;
-    --menubarcl:rgb(65, 3, 80);
+    --menubarcl:rgb(145, 31, 174);
 
 }
 body{
@@ -89,28 +89,31 @@ strong{
     width: 100px;
     background-color: black;
     border-radius: 0px 0px 10px 10px ;
+   
 }
-.Dropdown ul{
-    display: block;
+.Dropdown .dop{
+    display: flex;
     width: 100%;
     height: 100%;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    margin: 0px;
+    
+   
     
 }
-.Dropdown ul li{
+.Dropdown .dop .down{
      align-items: center;
     width: auto;
     height: auto;
-    align-items: center;
-    justify-content: center;
+    margin-top: 10px;
+    padding: 5px;
   
     
 }
-.Dropdown ul li a{
+.Dropdown .dop .down .last{
     color: aliceblue;
-    
+    margin: 0;
+    padding: 0;
     
 
 }
