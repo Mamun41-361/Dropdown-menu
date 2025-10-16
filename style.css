@@ -74,7 +74,13 @@ strong{
     text-transform: capitalize;
     font-size: 20px;
 }
+
+/*
 .menu ul li a:hover{
     border-bottom: 2px solid black;
     transition: 0.5s;
+}
+*/
+.Dropdown{
+    display: block;
 }
