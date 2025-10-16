@@ -88,7 +88,7 @@ strong{
     height: 150px;
     width: 100px;
     background-color: black;
-    border-radius: 0px 0px 5px 5px ;
+    border-radius: 0px 0px 10px 10px ;
 }
 .Dropdown ul{
     display: block;
