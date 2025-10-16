@@ -25,12 +25,15 @@ body{
     background-color: aqua;
     display: flex;
     align-items: center;
+   
 }
 .hh{
     width: auto;
     height: 100%;
     display: inline;
     margin-left: 20px;
+    align-items: center;
+    
 }
 h1{
 
@@ -46,14 +49,19 @@ strong{
     
 }
 .Menu_bar ul{
-    display: inline-block;
+    display: flex;
+    padding: 10px;
     
 }
 .Menu_bar ul li{
     list-style: none;
+    display: inline;
+       align-items: center;
+    justify-content: center;
 }
 .Menu_bar ul li a{
     text-decoration: none;
     margin: 10px;
     padding: 10px;
+    align-items: center;
 }
