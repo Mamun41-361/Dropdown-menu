@@ -24,6 +24,12 @@ body{
     padding: 0;
     background-color: aqua;
 }
+.hh{
+    width: auto;
+    height: auto;
+   
+    display: inline;
+}
 h1{
    
   margin-top: 20px;
