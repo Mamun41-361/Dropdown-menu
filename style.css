@@ -76,5 +76,5 @@ strong{
 }
 .menu ul li a:hover{
     border-bottom: 2px solid black;
-    transition-duration: 0.7s;
+    transition: 0.5s;
 }
