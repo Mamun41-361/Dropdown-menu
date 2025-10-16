@@ -69,10 +69,12 @@ strong{
     text-decoration: none;
     margin: 8px;
     padding: 10px;
+    padding-bottom: 3px;
     align-items: center;
     text-transform: capitalize;
     font-size: 20px;
 }
 .menu ul li a:hover{
     border-bottom: 2px solid black;
+    transition-duration: 0.7s;
 }
