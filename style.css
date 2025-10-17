@@ -5,7 +5,7 @@
 :root{
   
     --hederbackground:black;
-    --menubarcl:rgb(145, 31, 174);
+    --menubarcl:rgb(11, 6, 12);
 
 }
 body{
@@ -21,7 +21,7 @@ body{
     width: 100%;
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: rgb(11, 141, 141);
     display: flex;
     align-items: center;
    
